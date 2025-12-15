@@ -1,4 +1,6 @@
 package com.phukienthoitrang.ecommerce.model;
 
-public class Role {
+public enum Role {
+    CUSTOMER,
+    ADMIN
 }
